@@ -476,6 +476,13 @@ span {
     justify-content: space-between;
 }
 
+.stripe-buy-items {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 .buy-item {
     display: flex;
     flex-direction: column;
