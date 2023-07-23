@@ -490,20 +490,6 @@ span {
     /*box-shadow: 0 0 70px 0px rgba(253, 126, 20, .5);*/
 }
 
-.stripe-buy-item {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    width: 75%;
-    min-height: 400px;
-    padding: 15px 25px 15px 25px;
-    border-radius: 10px;
-    border: 1px solid #FF6464;
-    background-image: linear-gradient(to top, rgba(255, 0, 0, .6), rgba(390, 0, 0, .3));
-    margin-right: 10px;
-    /*box-shadow: 0 0 70px 0px rgba(253, 126, 20, .5);*/
-}
-
 .buy-item:last-child {
     margin-right: 0;
 }
