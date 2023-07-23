@@ -219,10 +219,10 @@ span {
 }
 
 .home-info h1 span::before {
-    content: '[BALLS PROJECT]';
+    content: '[FUTURE PROJECT]';
     position: absolute;
     font-size: 10px;
-    letter-spacing: 6px;
+    letter-spacing: 3px;
     line-height: 0px;
 }
 
